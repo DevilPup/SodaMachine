@@ -11,6 +11,20 @@ There is a typo for Mello Yello, but after I realized the error, I did not wan't
 then I would have needed to change a bunch almost every line of the ASCII display and, because that part
 was just for fun, I said no.
 
+ ---------------------------------------------------------------------------------------------------------------------
+|   _________     __________     __________     __________   |  ___________________________            _              |
+|  /         \   /          \   /          \   /          \  | | $0                        |          |4| Insert Coin |
+| |           | |            | |            | |            | |  ---------------------------           \_/             |
+| |           | |            | |            | |            | |   ___            ___                   ___             |
+| |           | |            | |            | |            | |  /   \          /   \                 /   \            |
+| | Coca-Cola | | Dr Pepper  | |   Sprite   | |   Mellow   | | |  0  | Coke   |  1  | Dr Pepper     |  5  | Refund    |
+| |           | |            | |            | |   Yellow   | |  \___/          \___/                 \___/            |
+| |           | |            | |            | |            | |   ___            ___                   ___             |
+| |           | |            | |            | |            | |  /   \          /   \                 /   \            |
+| |           | |            | |            | |            | | |  2  | Sprite |  3  | Mellow Yellow |  6  | Restock   |
+|  \_________/   \__________/   \__________/   \__________/  |  \___/          \___/                 \___/            |
+ ---------------------------------------------------------------------------------------------------------------------
+
 The ASCII display tells you the input for the corresponding beverage or alternative choices, being 'Insert Coin', 'Refund', and 'Restock'.
  - If you choose a beverage but do not have enough money inserted, it will tell you your beverage choice and its price. 
  - If there is enough money inserted, it will state "VEND, <BEVERAGE_CHOICE> BELOW", return the coin count to $0, and remove a beverage

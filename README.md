@@ -10,20 +10,8 @@ When you start it up, you have the option of four beverages: Coke, Dr Pepper, Sp
 There is a typo for Mello Yello, but after I realized the error, I did not wan't to change it because
 then I would have needed to change a bunch almost every line of the ASCII display and, because that part
 was just for fun, I said no.
-
- ---------------------------------------------------------------------------------------------------------------------
-|   _________     __________     __________     __________   |  ___________________________            _              |
-|  /         \   /          \   /          \   /          \  | | $0                        |          |4| Insert Coin |
-| |           | |            | |            | |            | |  ---------------------------           \_/             |
-| |           | |            | |            | |            | |   ___            ___                   ___             |
-| |           | |            | |            | |            | |  /   \          /   \                 /   \            |
-| | Coca-Cola | | Dr Pepper  | |   Sprite   | |   Mellow   | | |  0  | Coke   |  1  | Dr Pepper     |  5  | Refund    |
-| |           | |            | |            | |   Yellow   | |  \___/          \___/                 \___/            |
-| |           | |            | |            | |            | |   ___            ___                   ___             |
-| |           | |            | |            | |            | |  /   \          /   \                 /   \            |
-| |           | |            | |            | |            | | |  2  | Sprite |  3  | Mellow Yellow |  6  | Restock   |
-|  \_________/   \__________/   \__________/   \__________/  |  \___/          \___/                 \___/            |
- ---------------------------------------------------------------------------------------------------------------------
+ 
+ ![Image description](https://efrq9q.dm.files.1drv.com/y4mdspPkhg4a6yWdSUcVM4cCOY-wr_d2rNKrhlMfZC9qL1qfXqNJGY1IGCEeKClVngFta2v7hoOb0afnXJg4kTcmXpBKvLuOPZSyNKikSz3fQ2_96UfONjXS6GumK5PF194JzvmcXpZ8I1LO_Z2DZf9xF5bAgfD_8F38EKYSacT5S6atenZASKAfAtiGVUCTbcf411povWBQCsHaIK_NZyzJQ?width=846&height=226&cropmode=none)
 
 The ASCII display tells you the input for the corresponding beverage or alternative choices, being 'Insert Coin', 'Refund', and 'Restock'.
  - If you choose a beverage but do not have enough money inserted, it will tell you your beverage choice and its price. 

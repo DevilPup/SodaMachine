@@ -7,9 +7,9 @@ choice and how much it cost. I don't remember the refund button ever working pro
 have an option to restock the machine, I believe strictly for verification of our knowledge of programming.
 
 When you start it up, you have the option of four beverages: Coke, Dr Pepper, Sprite, and Mello Yello.
-There is a typo for Mello Yello, but after I realized the error, I did not wan't to change it because
-then I would have needed to change a bunch almost every line of the ASCII display and, because that part
-was just for fun, I said no.
+There is a typo for Mello Yello, but after I realized the error, I did not want to change it because
+then I would have needed to change almost every line of the ASCII display. Because ASCII art
+was just for fun, I decided against it.
  
  ![Image description](https://efrq9q.dm.files.1drv.com/y4mdspPkhg4a6yWdSUcVM4cCOY-wr_d2rNKrhlMfZC9qL1qfXqNJGY1IGCEeKClVngFta2v7hoOb0afnXJg4kTcmXpBKvLuOPZSyNKikSz3fQ2_96UfONjXS6GumK5PF194JzvmcXpZ8I1LO_Z2DZf9xF5bAgfD_8F38EKYSacT5S6atenZASKAfAtiGVUCTbcf411povWBQCsHaIK_NZyzJQ?width=846&height=226&cropmode=none)
 
